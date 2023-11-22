@@ -1,0 +1,17 @@
+.selected {
+    font-size: 1.2em;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    color: blue;
+}
+
+li {
+    list-style: none;
+    cursor: pointer;
+}
+
+li:hover {
+    color:brown;
+    font-style: italic;
+}
